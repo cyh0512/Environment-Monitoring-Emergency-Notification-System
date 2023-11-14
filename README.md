@@ -11,7 +11,7 @@ This system combines fast dialing, home safety, environmental monitoring and eme
 It is suitable to install in home for the family whose elder needs care.
 
 ## Method
-The mobile app obtains the open data of UVI and AQI from the Environmental Protection Agency(EPA), and combine with the environmental sensors value in the system.
-After receiving the data, the value exceeding threshold is automatically written into the Google Form URL for response. 
-By sending HTTP GET request, we can transmit the emergency message and data to the Google Form for recording.
-Google Apps Scripts automatically receives Google Form responses and sends messages to specific friends or groups via LINE Notify connection service.
+- The mobile app obtains the open data of UVI and AQI from the Environmental Protection Agency(EPA), and combine with the environmental sensors value in the system.
+- After receiving the data, the value exceeding threshold is automatically written into the Google Form URL for response. 
+- By sending HTTP GET request, we can transmit the emergency message and data to the Google Form for recording.
+- Google Apps Scripts automatically receives Google Form responses and sends messages to specific friends or groups via LINE Notify connection service.
