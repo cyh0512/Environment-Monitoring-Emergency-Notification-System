@@ -1,4 +1,4 @@
-# Environment-Monitoring-Emergency-Notification-System
+# Environment_Monitoring and Emergency_Notification_System
 
 ## Monitor risk factors in near house environment
 - Add in temperature and humidity, UVI, AQI, earthquake detection, smoke detection, display on the screen and distinguish the hazard level in different colors, so that the elderly can realize at a glance.
